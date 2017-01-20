@@ -1,6 +1,6 @@
 # PHP - Experiments and Examples
 
-# RUN
+# HOW TO RUN examples
 Run these examples using PHP Builtin Server
 `git clone https://github.com/xmanju/php.git`
 `cd php`
